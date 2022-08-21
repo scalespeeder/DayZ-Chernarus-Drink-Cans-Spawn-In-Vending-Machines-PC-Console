@@ -1,7 +1,7 @@
 DayZ Chernarus Soft Drinks Cans Added To Pipsi Vending Machines For Console and PC json Custom Spawner Mod Instructions & Terms Of Use
 
 This custom object spawner json file will spawn in a soft drinks can at (most) of the drinks vending machines on DayZ Chernarus - those in small
-Railway Station Offices and Hospitals. The cans will re-spawn on server restarts.
+Railway Station Offices, ATC Towers, Firestation and Hospitals. (Not Police Stations). This is a lot more than in the pictures in the Github. The cans will re-spawn on server restarts.
 
 Limited Testing on PC Chernarus Local Server DAYZ Version 1.18 Aug 2022.
 
